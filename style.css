@@ -1,0 +1,80 @@
+body {
+    font-family: 'Rubik Moonrocks',
+        cursive;
+}
+
+header {
+    text-align: center;
+    background-color: blueviolet;
+    padding-bottom: 10px;
+
+}
+
+.position {
+
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.detail-position {
+    margin-left: 10%;
+}
+
+.container {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    margin-top: 10%;
+}
+
+p {
+    margin-bottom: 8%;
+}
+
+.food-name {
+    color: blue;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, brown);
+    font-weight: 700;
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 3%;
+    color: black;
+    font-family: serif;
+
+}
+
+#review {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.review-area {
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 10px;
+    padding-left: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 30px gray;
+
+}
+
+.name {
+    color: blue;
+}
+
+footer p {
+    padding-top: 5%;
+    text-align: center;
+}
